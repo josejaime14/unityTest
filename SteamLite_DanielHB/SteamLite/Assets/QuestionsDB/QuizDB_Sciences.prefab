@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5043082231604334858
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5043082231604334856}
+  - component: {fileID: 5043082231604334857}
+  m_Layer: 0
+  m_Name: QuizDB_Sciences
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5043082231604334856
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5043082231604334858}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5043082231604334857
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5043082231604334858}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 631be083f8c290443a3c315a96fbc9c1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  questionsList:
+  - {fileID: 6452787346870853373, guid: 4d3f53235a5b2fb4bb2df49410720f2d, type: 3}
+  - {fileID: 6452787346870853373, guid: 43f50936efe407d49aba3cfd06127ea0, type: 3}
+  - {fileID: 6452787346870853373, guid: aaae817ad3fc3f3498d1ff10ba45a5a1, type: 3}
+  - {fileID: 6452787346870853373, guid: efc73b83a78db35438cf39ff351b5ebe, type: 3}
+  - {fileID: 6452787346870853373, guid: f824e3da4fbdec445bff4a80cbd91e53, type: 3}
